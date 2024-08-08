@@ -12,7 +12,7 @@
 <br>
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thowfeeksalim&label=Profile%20views&color=0e75b6&style=flat" alt="thowfeeksalim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thowfeek-dev&label=Profile%20views&color=0e75b6&style=flat" alt="thowfeekdev" /> </p>
 <img align="right" alt="coding is fun" width="" src="https://media.tenor.com/X3jJ_r78JlcAAAAC/bobs-burger-tina-belcher.gif">
 
 <p align="left"> <a href="https://twitter.com/thowfeeksalim6" target="blank"><img src="https://img.shields.io/twitter/follow/thowfeeksalim6?logo=twitter&style=for-the-badge" alt="thowfeeksalim6" /></a> </p>
@@ -21,11 +21,11 @@
 
 - 🌱 I’m Currently Learning **JavaScript ,Mongo DB, Json Api, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/thowfeeksalim?tab=repositories](https://github.com/thowfeeksalim?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/thowfeek-dev?tab=repositories](https://github.com/thowfeek-dev?tab=repositories)
 
 - 💬 Ask me about **JavaScript, Tailwind ,Bootstrap**
 
-- 📫 How to reach me **thowfeeksalim002@gmail.com**
+- 📫 How to reach me **thowfeeksalim009@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 <br>
@@ -35,7 +35,7 @@
 <a href="https://twitter.com/thowfeeksalim6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thowfeeksalim6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thowfeek-salim-294760211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thowfeek-salim-294760211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16309287/thowfeek-salim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16309287/thowfeek-salim" height="30" width="40" /></a>
-<a href="https://instagram.com/thowfeek_salim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thowfeek_salim_" height="30" width="40" /></a>
+<a href="https://instagram.com/thowfeek_salim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thowfeek_salim_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,8 +43,8 @@
 <br>
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thowfeeksalim&show_icons=true&locale=en&layout=compact" alt="thowfeeksalim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thowfeek-dev&show_icons=true&locale=en&layout=compact" alt="thowfeeksalim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thowfeeksalim&show_icons=true&locale=en" alt="thowfeeksalim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thowfeek-dev&show_icons=true&locale=en" alt="thowfeeksalim" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thowfeeksalim&" alt="thowfeeksalim" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thowfeek-dev&" alt="thowfeeksalim" /></p>
